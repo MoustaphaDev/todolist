@@ -1,0 +1,9 @@
+.center-list-el {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+}

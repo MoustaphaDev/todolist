@@ -1,0 +1,12 @@
+.style-header {
+  margin: 2rem 0rem;
+  font-family: "Lato", sans-serif;
+  font-size: 3rem;
+  text-align: center;
+}
+
+@media (max-width: 665px) {
+  .style-header {
+    font-size: 2rem;
+  }
+}
